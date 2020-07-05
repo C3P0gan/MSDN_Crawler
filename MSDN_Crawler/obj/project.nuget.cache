@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/a0FROcMIBxAt+O4ZTWYur1pHeVRuqzsu9Q41GU9NBjPOU/bOHrUu+JhlntnUKAx95K1YSJaBqweAllVbkEd2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cristofferpogan\\source\\repos\\MSDN_Crawler\\MSDN_Crawler\\MSDN_Crawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristofferpogan\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}

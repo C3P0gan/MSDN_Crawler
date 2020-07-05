@@ -1,0 +1,15 @@
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\bin\Debug\netcoreapp3.1\MSDN_Crawler.exe
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\obj\Debug\netcoreapp3.1\MSDN_Crawler.csprojAssemblyReference.cache
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\obj\Debug\netcoreapp3.1\MSDN_Crawler.AssemblyInfoInputs.cache
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\obj\Debug\netcoreapp3.1\MSDN_Crawler.AssemblyInfo.cs
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\bin\Debug\netcoreapp3.1\MSDN_Crawler.deps.json
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\bin\Debug\netcoreapp3.1\MSDN_Crawler.runtimeconfig.json
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\bin\Debug\netcoreapp3.1\MSDN_Crawler.runtimeconfig.dev.json
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\bin\Debug\netcoreapp3.1\MSDN_Crawler.dll
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\bin\Debug\netcoreapp3.1\MSDN_Crawler.pdb
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\obj\Debug\netcoreapp3.1\MSDN_Crawler.csproj.CoreCompileInputs.cache
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\obj\Debug\netcoreapp3.1\MSDN_Crawler.csproj.CopyComplete
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\obj\Debug\netcoreapp3.1\MSDN_Crawler.dll
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\obj\Debug\netcoreapp3.1\MSDN_Crawler.pdb
+C:\Users\cristofferpogan\source\repos\MSDN_Crawler\MSDN_Crawler\obj\Debug\netcoreapp3.1\MSDN_Crawler.genruntimeconfig.cache
